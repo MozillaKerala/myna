@@ -8,3 +8,39 @@
 	margin: 0 auto;
 	background-color: rgba(0,0,0,0.2);
 }
+
+.full-container{
+	width: 100%;
+	background-color: rgba(0,0,0,0.3);
+}
+
+.header-main{
+	min-height: 80px;
+}
+
+.header-sub{
+	background-color: rgba(0,0,0,0.3);
+}
+
+.slider{
+	min-height: 220px;
+}
+
+.community-desc{
+	min-height: 40px;
+}
+
+.blog-events .content-box{
+	min-height: 200px;
+	background-color: rgba(0,0,0,0.6);
+}
+
+.list-content .content-box{
+	min-height: 40px;
+	background-color: rgba(0,0,0,0.6);
+}
+
+.footer{
+	min-height: 100px;
+	background-color: rgba(0,0,0,0.2);
+}
