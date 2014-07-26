@@ -1,3 +1,10 @@
 #main-container{
 	width: 100%;
+	background-color: rgba(0,0,0,0.1);
+}
+
+.container{
+	width: 90%;
+	margin: 0 auto;
+	background-color: rgba(0,0,0,0.2);
 }
